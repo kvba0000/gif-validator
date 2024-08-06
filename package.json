@@ -1,15 +1,19 @@
 {
   "name": "gif-validator",
   "description": "gif-validator is a simple script allowing you to clear favorite gifs on Discord from ones that are not available.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
-  "main": "src/index.js",
-  "type": "module",
+  "main": "src/index.ts",
   "scripts": {
-    "start": "node ."
+    "start": "tsx ."
   },
   "dependencies": {
-    "axios": "^1.6.7",
-    "discord-protos": "^1.0.5"
+    "axios": "^1.7.3",
+    "discord-protos": "1.0.5",
+    "tsx": "4.16.5",
+    "typescript": "5.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "22.1.0"
   }
 }
