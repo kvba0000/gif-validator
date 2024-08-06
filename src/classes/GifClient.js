@@ -1,6 +1,6 @@
-const { Helper } = require("./Helper.js")
-const { FrecencyUserSettings } = require("discord-protos")
-const { Axios } = require("axios")
+import { Helper } from "./Helper.js"
+import { FrecencyUserSettings } from "discord-protos"
+import { Axios } from "axios"
 
 /** Main client class for this project */
 export class GifClient {

@@ -1,5 +1,5 @@
-const { createInterface } = require("readline")
-const { stdin, stdout } = require("process")
+import { createInterface } from "readline"
+import { stdin, stdout } from "process"
 
 /** Class for prompting user in terminal */
 export class RL {
