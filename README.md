@@ -1,3 +1,7 @@
+> [!CAUTION]
+> GIF Validator is no longer maintained on GitHub, it's new home is on Codeberg under [this link](https://codeberg.org/jakeayy/gif-validator)! Worth checking out for a complete v2 rewrite! (that doesn't require any external tools now to run the tool!)
+> I will keep the v1 version on GitHub for as long as necessary.
+
 <img src=".github/assets/preview.gif" height="300" alt="Gif Validator preview" />
 
 # GIF Validator
